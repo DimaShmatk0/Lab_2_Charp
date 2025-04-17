@@ -1,0 +1,14 @@
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\bin\Debug\net8.0\Lab_2_Charp.exe
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\bin\Debug\net8.0\Lab_2_Charp.deps.json
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\bin\Debug\net8.0\Lab_2_Charp.runtimeconfig.json
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\bin\Debug\net8.0\Lab_2_Charp.dll
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\bin\Debug\net8.0\Lab_2_Charp.pdb
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.AssemblyInfoInputs.cache
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.AssemblyInfo.cs
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.csproj.CoreCompileInputs.cache
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.dll
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\refint\Lab_2_Charp.dll
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.pdb
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.genruntimeconfig.cache
+C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\ref\Lab_2_Charp.dll
