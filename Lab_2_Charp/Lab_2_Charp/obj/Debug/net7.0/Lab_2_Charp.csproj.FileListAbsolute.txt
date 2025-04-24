@@ -1,0 +1,14 @@
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\bin\Debug\net7.0\Lab_2_Charp.exe
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\bin\Debug\net7.0\Lab_2_Charp.deps.json
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\bin\Debug\net7.0\Lab_2_Charp.runtimeconfig.json
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\bin\Debug\net7.0\Lab_2_Charp.dll
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\bin\Debug\net7.0\Lab_2_Charp.pdb
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\Lab_2_Charp.GeneratedMSBuildEditorConfig.editorconfig
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\Lab_2_Charp.AssemblyInfoInputs.cache
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\Lab_2_Charp.AssemblyInfo.cs
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\Lab_2_Charp.csproj.CoreCompileInputs.cache
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\Lab_2_Charp.dll
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\refint\Lab_2_Charp.dll
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\Lab_2_Charp.pdb
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\Lab_2_Charp.genruntimeconfig.cache
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net7.0\ref\Lab_2_Charp.dll

@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\000\\.nuget\\packages\\": {}
@@ -13,18 +13,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\000\\source\\repos\\Lab_2_Charp\\Lab_2_Charp\\Lab_2_Charp.csproj",
+      "projectUniqueName": "F:\\3 курс\\2 семестр\\ПОП\\Lab_2\\Lab_2_Charp\\Lab_2_Charp\\Lab_2_Charp.csproj",
       "projectName": "Lab_2_Charp",
-      "projectPath": "C:\\Users\\000\\source\\repos\\Lab_2_Charp\\Lab_2_Charp\\Lab_2_Charp.csproj",
+      "projectPath": "F:\\3 курс\\2 семестр\\ПОП\\Lab_2\\Lab_2_Charp\\Lab_2_Charp\\Lab_2_Charp.csproj",
       "packagesPath": "C:\\Users\\000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\000\\source\\repos\\Lab_2_Charp\\Lab_2_Charp\\obj\\",
+      "outputPath": "F:\\3 курс\\2 семестр\\ПОП\\Lab_2\\Lab_2_Charp\\Lab_2_Charp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\000\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,8 +32,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -49,8 +49,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

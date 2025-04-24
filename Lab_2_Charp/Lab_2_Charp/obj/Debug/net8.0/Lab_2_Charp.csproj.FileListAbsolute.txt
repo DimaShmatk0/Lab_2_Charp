@@ -12,3 +12,6 @@ C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\refint\Lab_2_
 C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.pdb
 C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.genruntimeconfig.cache
 C:\Users\000\source\repos\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\ref\Lab_2_Charp.dll
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.dll
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\refint\Lab_2_Charp.dll
+F:\3 курс\2 семестр\ПОП\Lab_2\Lab_2_Charp\Lab_2_Charp\obj\Debug\net8.0\Lab_2_Charp.pdb

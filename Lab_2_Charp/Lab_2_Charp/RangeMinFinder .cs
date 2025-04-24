@@ -5,45 +5,36 @@ namespace Lab_2_Charp
 {
     class RangeMinFinder
     {
-        private readonly int startIndex;
-        private readonly int finishIndex;
+        private readonly int startIndex, finishIndex;
         private readonly int[] arr;
-        private Thread thread;
+        private int minValue;
+        private int minIndex;
+        private readonly ParallelMinController controller;
 
-        public int MinValue { get; private set; }
-        public int MinIndex { get; private set; }
-
-        public RangeMinFinder(int startIndex, int finishIndex, int[] arr)
+        public RangeMinFinder(int start, int finish, int[] array, ParallelMinController ctrl)
         {
-            this.startIndex = startIndex;
-            this.finishIndex = finishIndex;
-            this.arr = arr;
+            startIndex = start;
+            finishIndex = finish;
+            arr = array;
+            controller = ctrl;
         }
 
-        public void Start()
-        {
-            thread = new Thread(FindMin);
-            thread.Start();
-        }
+        public int MinValue => minValue;
+        public int MinIndex => minIndex;
 
-        public void Join()
+        public void Run()
         {
-            thread.Join();
-        }
-
-        private void FindMin()
-        {
-            MinValue = arr[startIndex];
-            MinIndex = startIndex;
-
+            minValue = arr[startIndex];
+            minIndex = startIndex;
             for (int i = startIndex + 1; i < finishIndex; i++)
             {
-                if (arr[i] < MinValue)
+                if (arr[i] < minValue)
                 {
-                    MinValue = arr[i];
-                    MinIndex = i;
+                    minValue = arr[i];
+                    minIndex = i;
                 }
             }
+            controller.IncrementFinishedThread();
         }
     }
 }
